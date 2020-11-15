@@ -10,3 +10,9 @@
 </head>
 
 <body class="flex">
+
+    <?= $this->renderSection('content'); ?>
+
+</body>
+
+</html>

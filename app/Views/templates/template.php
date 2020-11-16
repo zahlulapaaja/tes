@@ -9,7 +9,7 @@
     <!-- <link href="http://localhost/ngobar/public/css/output.css"> -->
 </head>
 
-<body class="flex">
+<body>
 
     <?= $this->renderSection('content'); ?>
 
